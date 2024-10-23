@@ -1,2 +1,2 @@
 # Sales-and-Customer-Dashboard-Tableau-
-Created a tableau dashboard for a data I found interesting.
+I developed an interactive sales dashboard that analyzes sales, profit, and quantity data for 2023 compared to the previous year. The dashboard presents key performance indicators (KPIs), such as total sales, profit, and sold quantity, alongside trends and performance by product category. It visually highlights significant growth areas and identifies underperforming categories, offering valuable insights for decision-making and strategic planning. This project showcases my ability to utilize data visualization tools for effective business analysis.
